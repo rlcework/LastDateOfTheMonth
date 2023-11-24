@@ -1,0 +1,88 @@
+[INFO ] 2023-11-09 04:29:11.873 [main] Main - User input date :13-Oct-2022
+[INFO ] 2023-11-09 04:29:11.875 [main] Main - Day is valid
+[INFO ] 2023-11-09 04:29:11.875 [main] Main - Month is valid
+[INFO ] 2023-11-09 04:29:11.875 [main] Main - Year is valid
+[INFO ] 2023-11-09 04:29:11.876 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-09 04:29:11.878 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-09 04:29:11.878 [main] Main - 31 (last day of Oct in year 2022)
+[INFO ] 2023-11-09 04:29:11.878 [main] Main - ************************
+[INFO ] 2023-11-09 04:29:26.343 [main] Main - User input date :01-Feb-2019
+[INFO ] 2023-11-09 04:29:26.344 [main] Main - Day is valid
+[INFO ] 2023-11-09 04:29:26.345 [main] Main - Month is valid
+[INFO ] 2023-11-09 04:29:26.345 [main] Main - Year is valid
+[INFO ] 2023-11-09 04:29:26.345 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-09 04:29:26.347 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-09 04:29:26.347 [main] Main - 28 (last day of Feb in year 2019, not a leap year)
+[INFO ] 2023-11-09 04:29:26.347 [main] Main - ************************
+[INFO ] 2023-11-09 04:29:36.074 [main] Main - User input date :01-Feb-2020
+[INFO ] 2023-11-09 04:29:36.076 [main] Main - Day is valid
+[INFO ] 2023-11-09 04:29:36.076 [main] Main - Month is valid
+[INFO ] 2023-11-09 04:29:36.076 [main] Main - Year is valid
+[INFO ] 2023-11-09 04:29:36.076 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-09 04:29:36.079 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-09 04:29:36.079 [main] Main - 29 (last day of Feb in year 2020, a leap year)
+[INFO ] 2023-11-09 04:29:36.079 [main] Main - ************************
+[INFO ] 2023-11-09 04:30:29.999 [main] Main - User input date :32-Jan-2099
+[ERROR] 2023-11-09 04:30:30.000 [main] Main - Invalid day value, please re-enter the correct value
+[INFO ] 2023-11-09 04:30:48.420 [main] Main - User input date :31-JAN-2023
+[INFO ] 2023-11-09 04:30:48.422 [main] Main - Day is valid
+[ERROR] 2023-11-09 04:30:48.422 [main] Main - Invalid month value, please re-enter the correct value
+[INFO ] 2023-11-09 04:31:05.169 [main] Main - User input date :01-Jan-3000
+[INFO ] 2023-11-09 04:31:05.171 [main] Main - Day is valid
+[INFO ] 2023-11-09 04:31:05.171 [main] Main - Month is valid
+[ERROR] 2023-11-09 04:31:05.171 [main] Main - Invalid year value, please re-enter the correct value
+[INFO ] 2023-11-09 04:31:42.332 [main] Main - User input date :-------
+[ERROR] 2023-11-09 04:31:42.334 [main] Main - Invalid date format.
+[INFO ] 2023-11-11 02:57:17.144 [main] Main - User input date :01-Feb-2023
+[INFO ] 2023-11-11 02:57:17.150 [main] Main - Day is valid
+[INFO ] 2023-11-11 02:57:17.151 [main] Main - Month is valid
+[INFO ] 2023-11-11 02:57:17.151 [main] Main - Year is valid
+[INFO ] 2023-11-11 02:57:17.151 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-11 02:57:17.154 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-11 02:57:17.154 [main] Main - 28 (last day of Feb in year 2023, not a leap year)
+[INFO ] 2023-11-11 02:57:17.154 [main] Main - ************************
+[INFO ] 2023-11-11 02:57:33.217 [main] Main - User input date :01-Feb-2099
+[INFO ] 2023-11-11 02:57:33.280 [main] Main - Day is valid
+[INFO ] 2023-11-13 03:33:26.775 [main] Main - User input date :111-Feb-2023
+[INFO ] 2023-11-13 03:33:26.776 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:33:26.777 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:33:26.777 [main] Main - 
+[INFO ] 2023-11-13 03:33:26.777 [main] Main - ************************
+[INFO ] 2023-11-13 03:33:56.089 [main] Main - User input date :01-January-2023
+[INFO ] 2023-11-13 03:33:56.091 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:33:56.094 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:33:56.094 [main] Main - 31 (last day of January in year 2023)
+[INFO ] 2023-11-13 03:33:56.094 [main] Main - ************************
+[INFO ] 2023-11-13 03:34:38.838 [main] Main - User input date :011-January-2023
+[INFO ] 2023-11-13 03:34:38.839 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:34:38.842 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:34:38.842 [main] Main - 31 (last day of January in year 2023)
+[INFO ] 2023-11-13 03:34:38.843 [main] Main - ************************
+[INFO ] 2023-11-13 03:34:57.216 [main] Main - User input date :test
+[INFO ] 2023-11-13 03:34:57.218 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:35:10.492 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:35:10.877 [main] Main - 
+[INFO ] 2023-11-13 03:35:11.219 [main] Main - ************************
+[INFO ] 2023-11-13 03:36:26.433 [main] Main - User input date :10101010-Jest-201203
+[INFO ] 2023-11-13 03:36:26.434 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:36:26.435 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:36:26.435 [main] Main - 
+[INFO ] 2023-11-13 03:36:26.436 [main] Main - ************************
+[INFO ] 2023-11-13 03:37:33.599 [main] Main - User input date :10-Feb-2023
+[INFO ] 2023-11-13 03:37:33.601 [main] Main - Day is valid
+[INFO ] 2023-11-13 03:37:33.601 [main] Main - Month is valid
+[INFO ] 2023-11-13 03:37:33.601 [main] Main - Year is valid
+[INFO ] 2023-11-13 03:37:33.601 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:37:33.604 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:37:33.604 [main] Main - 28 (last day of Feb in year 2023, not a leap year)
+[INFO ] 2023-11-13 03:37:33.605 [main] Main - ************************
+[INFO ] 2023-11-13 03:39:31.232 [main] Main - User input date :29-Feb-2023
+[INFO ] 2023-11-13 03:39:31.234 [main] Main - Successfully validate the input date
+[INFO ] 2023-11-13 03:39:31.235 [main] Main - Successfuly get the last date value
+[INFO ] 2023-11-13 03:39:31.235 [main] Main - 
+[INFO ] 2023-11-13 03:39:31.235 [main] Main - ************************
+[INFO ] 2023-11-13 03:40:33.213 [main] Main - User input date :29-Feb-2023
+[INFO ] 2023-11-13 03:40:33.214 [main] Main - Day is valid
+[INFO ] 2023-11-13 03:40:33.215 [main] Main - Month is valid
+[INFO ] 2023-11-13 03:40:33.215 [main] Main - Year is valid
+[ERROR] 2023-11-13 03:40:33.215 [main] Main - Invalid day value, No 29 in year 2023
